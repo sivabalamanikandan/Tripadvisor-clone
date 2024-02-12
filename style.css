@@ -210,18 +210,21 @@
     display: flex;
     gap: 20px;
 }
-.travelfav__place{
-    position: relative;
-    
-    
-}
+
+
 
 .travelfav__img{
     width: 300px;
     height: 300px;
     border-radius: 10px;
     z-index: 2;
+    display: relative;
 }
+
+.travelfav__place{
+    position: relative;
+    
+    }
 
 .travelfav__title{
     position: absolute;
