@@ -204,7 +204,7 @@
     margin-top: 15px;
 }
 
-.bestdestination__container{
+.bestdestination-container{
     margin-top: 15px;
     display: flex;
     gap: 20px;
@@ -218,7 +218,6 @@
 .travelfav__img{
     width: 300px;
     height: 300px;
-    border-radius: 10px;
     z-index: 2;
 }
 
