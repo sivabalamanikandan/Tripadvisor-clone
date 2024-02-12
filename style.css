@@ -352,11 +352,19 @@ padding-left: 90px;
         display: none;
     }
     
-
+    .bestdestination-container{
+        display: block;
+        
+    }
     
+    .topexperience-container{
+        display: block;
+    }
 
+    .travelfav__img{
+        margin-top: 10px;
 
-
+    }
 
     .footer{
         margin-left: 100px;
